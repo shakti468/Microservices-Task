@@ -125,7 +125,7 @@ docker-compose up
 ![image](https://github.com/user-attachments/assets/5ce7098e-f836-4826-a421-572aadb78eb1)
 
 ---
-## 🌐 Service Endpoints
+##  Service Endpoints
 - Once the containers are running, you can access the services at the following URLs:
 
 ## User Service
@@ -152,7 +152,7 @@ docker-compose up
 
 ---
 
-#  Gateway Service (API Aggregator)
+#  Gateway Service 
 
 - Users: http://localhost:3003/api/users
 
