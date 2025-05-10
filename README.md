@@ -33,7 +33,7 @@ Microservices/
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/shakti468/Microservices-Task>
+git clone https://github.com/shakti468/Microservices-Task.git
 ```
 
 ## Docker file for all these services
