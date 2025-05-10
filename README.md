@@ -66,3 +66,53 @@ This document provides details on testing various services after running the `do
 2. Once the services are running, use the above endpoints to verify the functionality.
 
 Happy testing!
+
+
+# 🐳 Microservices Containerization Assessment
+
+## 📌 Objective
+
+Containerize and orchestrate a Node.js microservices-based application using Docker and Docker Compose. The application includes four services:
+- User Service
+- Product Service
+- Order Service
+- Gateway Service
+
+---
+
+## 📁 Project Structure
+```
+submission/
+├── user-service/
+│ └── Dockerfile
+├── product-service/
+│ └── Dockerfile
+├── order-service/
+│ └── Dockerfile
+├── gateway-service/
+│ └── Dockerfile
+├── docker-compose.yml
+└── README.md
+```
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Prerequisites
+
+Ensure the following are installed:
+- [Docker Desktop](https://www.docker.com/products/docker-desktop)
+- Docker Compose
+
+---
+
+### 2. Build and Run All Services
+
+Navigate to the root of your project directory, then run:
+
+```bash
+docker-compose build
+docker-compose up
+
