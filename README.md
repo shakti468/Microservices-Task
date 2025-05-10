@@ -1,6 +1,6 @@
 # Microservices Containerization 
 
-## 📦 Overview
+## Overview
 
 This project involves containerizing four Node.js microservices—**User**, **Product**, **Order**, and **Gateway**—and orchestrating them using Docker Compose.
 
@@ -8,7 +8,7 @@ Each service is independently built and exposed on different ports. The Gateway 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 Microservices/
 ├── user-service/
@@ -28,7 +28,7 @@ Microservices/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
